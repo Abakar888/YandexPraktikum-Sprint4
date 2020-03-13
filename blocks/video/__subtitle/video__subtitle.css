@@ -1,0 +1,15 @@
+.video__subtitle{
+  margin: 8px 0 0;
+}
+@media screen and (max-width: 1024px){
+  .video__subtitle{
+    line-height: 15px;
+    font-size: 0.875em;
+    margin-top: 12px;
+  }
+}
+@media screen and (max-width: 425px){
+  .video__subtitle{
+    margin-top: 12px;
+  }
+}

@@ -1,0 +1,9 @@
+.intro__signature{
+  list-style: none;
+  margin-top: 35px;
+  padding: 0;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 10px;
+  line-height: 16px;
+}

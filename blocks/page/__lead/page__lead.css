@@ -1,0 +1,14 @@
+.page__lead{
+  margin: 56px  auto 0;
+}
+@media screen and (max-width: 1024px){
+  .page__lead{
+    margin-top: 62px;
+  }
+}
+
+@media screen and (max-width:425px){
+  .page__lead{
+    margin-top: 44px;
+  }
+}

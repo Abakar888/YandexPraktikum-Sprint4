@@ -1,0 +1,18 @@
+.page__video{
+  margin: 110px auto 0;
+}
+@media screen and (max-width: 768px){
+  .page__video{
+    margin-top: 85px;
+  }
+}
+@media screen and (max-width: 425px){
+  .page__video{
+    margin-top: 73px;
+  }
+}
+@media screen and (max-width:374px){
+  .page__video{
+    margin-top: 66px;
+  }
+}

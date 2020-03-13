@@ -1,0 +1,13 @@
+.comments__comment{
+  margin: 69px 0 0;
+}
+@media screen and (max-width: 1280px){
+  .comments__comment{
+    margin-top: 60px;
+  }
+}
+@media screen and (max-width: 1023px){
+  .comments__comment{
+    margin-top: 40px;
+  }
+}

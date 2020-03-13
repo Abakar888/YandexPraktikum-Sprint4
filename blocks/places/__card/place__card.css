@@ -1,0 +1,15 @@
+.places__card{
+  display: flex;
+  flex-wrap: wrap;
+  margin-bottom: 86px;
+}
+@media screen and (max-width: 768px){
+  .places__card{
+    margin-bottom: 60px;
+  }
+}
+@media screen and (max-width:425px){
+  .places__card{
+    margin-bottom: 57px;
+  }
+}

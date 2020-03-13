@@ -1,0 +1,19 @@
+.leade__image-container{
+  display: block;
+  margin: 71px auto 0;
+}
+@media screen and (max-width: 1024px){
+  .leade__image-container{
+    margin-top: 98px;
+  }
+}
+@media screen and (max-width: 768px){
+  .leade__image-container{
+    margin-top: 58px;
+  }
+}
+@media screen and (max-width: 490px){
+  .leade__image-container{
+    margin-top: 37px;
+  }
+}

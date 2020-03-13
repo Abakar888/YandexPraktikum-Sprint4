@@ -1,0 +1,30 @@
+.places__text{ 
+  box-sizing: border-box;
+  width: 100%;
+  margin-top: 0;
+  margin-bottom: 23px;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 1.12rem;
+  line-height: 30px;
+}
+
+@media screen and (max-width: 1025px){
+  .places__text{
+    margin-bottom: 24px;
+  }
+
+}
+@media screen and (max-width: 768px){
+  .places__text{
+    font-size: 1rem;
+    line-height: 27px;
+  }
+}
+@media screen and (max-width: 700px){
+  .places__text{
+    margin-bottom: 0;
+    padding: 0 16px;
+    margin-top: 24px;
+  }
+}
